@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">loginx2</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logiin">login</string>
+    <string name="register">register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">LogOut</string>
+</resources>
